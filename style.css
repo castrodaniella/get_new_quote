@@ -1,0 +1,35 @@
+html{
+    font-size: 16px;
+}
+
+
+.container{
+    padding: 7rem;
+    width: auto;
+    height: auto;
+    
+}
+
+h1 {
+    text-align: center;
+    width: auto;
+    font-size: 2rem;
+    margin: auto
+}
+
+
+#button {
+    width: 7rem;
+    padding: 2rem;
+    margin: 3rem auto auto auto;
+    background-color: orangered;
+    color: black;
+    border-radius: 1rem;
+    border: solid salmon 1px;
+    box-shadow: 2px 2px 5px gray;
+  }
+
+#button:hover {
+    background-color: orangered;
+    opacity: 50%;
+}
