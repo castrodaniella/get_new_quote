@@ -1,7 +1,7 @@
 # Get Your Quote
 
 ## Description
-This website generate new quotes after a click. 
+This website generate new quotes when your click at the button "Get Your Quote". 
 
 ## Features
 It has 3 motivational quotes saved in an array, which will be randomly be selected.
