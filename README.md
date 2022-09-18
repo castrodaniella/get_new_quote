@@ -1,14 +1,14 @@
-#Get Your Quote
+# Get Your Quote
 
-##Description
+## Description
 This website generate new quotes after a click. 
 
-##Features
+## Features
 It has 3 motivational quotes saved in an array, which will be randomly be selected.
 
-##How to Use
+## How to Use
 Just click at the button "Get your quote". To get a new quote you will need to refresh your page.
 
-##Technologies
+## Technologies
 I am using HTML, CSS and JavaScript
 
